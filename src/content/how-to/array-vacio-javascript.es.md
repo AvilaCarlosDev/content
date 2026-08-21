@@ -1,5 +1,6 @@
 ---
 title: Todo lo que necesitas saber sobre Javascript Empty Array
+subtitle: Aprende a verificar si un array de JavaScript está vacío y a limpiarlo usando patrones comunes del lenguaje.
 tags:
   - JavaScript
   - arrays

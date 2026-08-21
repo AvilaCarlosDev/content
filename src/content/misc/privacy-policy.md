@@ -1,3 +1,9 @@
+---
+title: "4Geeks Investments LLC Privacy Policy"
+subtitle: "This policy explains how 4Geeks Investments LLC collects, uses, and protects personal information across its sites and services."
+tags: ["4geeks"]
+---
+
 4Geeks Investments LLC Privacy Policy
 -------------------------------------
 
