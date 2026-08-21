@@ -1,3 +1,9 @@
+---
+title: "Política de Privacidad de 4Geeks Investments LLC"
+subtitle: "Esta política explica cómo 4Geeks Investments LLC recopila, usa y protege la información personal en sus sitios y servicios."
+tags: ["4geeks"]
+---
+
 Política de Privacidad de 4Geeks Investments LLC
 -------------------------------------
 
