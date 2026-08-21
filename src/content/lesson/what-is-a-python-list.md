@@ -1,7 +1,7 @@
 ---
 title: "Working with Lists in Python"
 subtitle: "Lists are the first type of data-structure that Python has to store multiple values at once. They are very powerful and heavily used in everyday operations for any type of program in any industry."
-cover_local: "https://github.com/breatheco-de/content/blob/master/src/content/lesson/../../assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png?raw=true"
+cover: "https://github.com/breatheco-de/content/blob/master/src/assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png?raw=true"
 textColor: "white"
 date: "2020-10-19T16:36:31+00:00"
 tags: ["list"]

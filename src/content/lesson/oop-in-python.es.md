@@ -1,4 +1,5 @@
 ---
+subtitle: "Descubre la Programación Orientada a Objetos en Python. Aprende sus principios y mejora tus habilidades de programación. ¡Empieza ahora!"
 title: ¿Qué es la Programación Orientada a Objetos?
 tags:
   - python

@@ -1,3 +1,9 @@
+---
+title: "Añadir columna DataFrame python"
+subtitle: "Learn the key concepts behind Añadir columna DataFrame python with a practical, clear explanation designed for programming students."
+tags: ["Python"]
+---
+
 # Añadir columna DataFrame python
 
 Una columna de _DataFrame_ en cuanto a la librería de _Pandas_ en _Python_, se refiere a una serie de valores organizados de manera vertical dentro de un objeto _DataFrame_. Representa una característica o valor único dentro del conjunto de datos a analizar.

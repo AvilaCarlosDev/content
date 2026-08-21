@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende los fundamentos de Javascript y comienza a programar hoy. ¡Descubre cómo crear sitios web interactivos y mejora tus habilidades!"
 title: Introducción para Comenzar a Programar Usando Javascript
 tags:
   - javascript

@@ -1,4 +1,5 @@
 ---
+subtitle: "Domina interfaces dinámicas de alto rendimiento con FlatList, FlashList, Reanimated 3 y Gesture Handler v2. Aprende optimizaciones, animaciones a 60 FPS y gestos nativos."
 title: "Listas, Animaciones y Gestos en React Native"
 description: "Domina interfaces dinámicas de alto rendimiento con FlatList, FlashList, Reanimated 3 y Gesture Handler v2. Aprende optimizaciones, animaciones a 60 FPS y gestos nativos."
 author: "rosinni"

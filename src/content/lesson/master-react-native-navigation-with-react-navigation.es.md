@@ -1,4 +1,5 @@
 ---
+subtitle: "Guía completa de React Navigation de Callstack: aprende Stack, Tab y Drawer navigation, tipado con TypeScript, deep linking, y patrones avanzados para apps enterprise. Todo lo que necesitas saber sobre navegación profesional en React Native CLI."
 title: "Domina la navegación en React Native con React Navigation"
 description: "Guía completa de React Navigation de Callstack: aprende Stack, Tab y Drawer navigation, tipado con TypeScript, deep linking, y patrones avanzados para apps enterprise. Todo lo que necesitas saber sobre navegación profesional en React Native CLI."
 author: "rosinni"

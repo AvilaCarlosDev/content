@@ -1,4 +1,6 @@
 ---
+subtitle: "¡Bienvenid@ al Programa de Desarrollo Full Stack de 4Geeks.com! Aprende a programar con recursos interactivos y mentoría. ¡Descubre tu futuro en tecnología hoy!"
+tags: ["4geeks"]
 title: ¡Bienvenid@ al Programa de Desarrollo Full Stack de 4Geeks.com!
 description: >-
   ¡Bienvenid@ al Programa de Desarrollo Full Stack de 4Geeks.com! Aprende a

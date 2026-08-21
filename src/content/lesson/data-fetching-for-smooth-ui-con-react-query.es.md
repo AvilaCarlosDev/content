@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende a integrar APIs sin jank ni spinners innecesarios usando React Query. Estrategias de cache, optimización de requests y estados de carga inteligentes."
 title: "Obtención de datos para una interfaz de usuario fluida con React Query"
 description: "Aprende a integrar APIs sin jank ni spinners innecesarios usando React Query. Estrategias de cache, optimización de requests y estados de carga inteligentes."
 author: "rosinni"

@@ -1,4 +1,5 @@
 ---
+subtitle: "Domina condicionales en Python para controlar el flujo de tu código. Aprende a tomar decisiones programáticas y mejora tus habilidades de programación. Discover more!"
 title: Condicionales en la programación en Python
 author:
   - alesanchezr

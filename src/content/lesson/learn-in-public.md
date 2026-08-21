@@ -1,4 +1,5 @@
 ---
+subtitle: "Discover how learning in public can enhance your tech skills and career. Embrace sharing your journey and connect with others today!"
 title: Learn in Public
 tags:
   - learn-in-public

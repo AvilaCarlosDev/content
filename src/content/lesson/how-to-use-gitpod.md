@@ -1,4 +1,5 @@
 ---
+subtitle: "Learn how to use Gitpod, the cloud-based coding platform. Discover its features and benefits to enhance your coding experience today!"
 title: How to use Gitpod
 tags:
   - gitpod

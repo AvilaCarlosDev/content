@@ -1,4 +1,5 @@
 ---
+subtitle: "Learn how to create effective unit testing with JEST! Discover essential techniques to enhance your JavaScript code quality and prevent bugs."
 title: How to create unit testing with JEST
 tags:
   - Jest

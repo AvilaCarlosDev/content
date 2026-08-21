@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende a usar Python en Ciencia de Datos. Descubre conceptos clave, tipos de datos y librerías esenciales. ¡Domina Data Science hoy mismo!"
 title: Data Science con Python
 tags:
   - data-science

@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende los conceptos clave de OTA Updates y Hardening en React Native CLI con una explicación práctica, clara y orientada a estudiantes de programación."
 title: "OTA Updates y Hardening en React Native CLI"
 description: "Cómo combinar actualizaciones OTA y hardening para mantener tus aplicaciones React Native seguras, ágiles para iterar y resilientes frente a amenazas del mundo real. Aprende a desplegar cambios en JavaScript en cuestión de minutos mientras implementas las capas de seguridad necesarias para proteger tu código, tus usuarios y tu infraestructura."
 authors:

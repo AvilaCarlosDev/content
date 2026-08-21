@@ -1,4 +1,5 @@
 ---
+subtitle: "Master the command line and unlock powerful tools for developers! Learn essential terminal commands to boost your productivity. Discover more now!"
 title: 'The Command Line (a.k.a: The Terminal) '
 tags:
   - the command line

@@ -1,4 +1,7 @@
 ---
+title: "¿Que son patrones de diseño?"
+subtitle: "Discover essential React design patterns to enhance your application's scalability and efficiency. Learn how to implement HOCs, Providers, and Compound components!"
+tags: ["react"]
 description: >-
   Discover essential React design patterns to enhance your application's
   scalability and efficiency. Learn how to implement HOCs, Providers, and

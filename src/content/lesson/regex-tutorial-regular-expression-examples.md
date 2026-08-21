@@ -1,7 +1,7 @@
 ---
 title: "Regex Tutorial: Learn With Regular Expression Examples"
 subtitle: "Regular Expressions are the best way to identify patterns within strings. They can seem difficult and annoying, but once you know how to use them, they're amazing! In this Regex Tutorial you will learn with Regular Expression Examples"
-cover_local: "https://github.com/breatheco-de/content/blob/master/src/content/lesson/../../assets/images/bf7bc7e6-c89c-4f97-9377-e30e369ba796.gif?raw=true"
+cover: "https://github.com/breatheco-de/content/blob/master/src/assets/images/bf7bc7e6-c89c-4f97-9377-e30e369ba796.gif?raw=true"
 textColor: "white"
 authors: ["alesanchezr"]
 date: "2020-10-19T16:36:31+00:00"

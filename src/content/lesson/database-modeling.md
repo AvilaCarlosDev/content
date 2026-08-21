@@ -1,7 +1,7 @@
 ---
 title: "Database Modeling"
 subtitle: "One of the challenges of working with databases is to organize the information in tables in an efficient way that guarantees the consistency of the data, for this the normal forms do not say that we must comply to have the database better ordered."
-cover_local: "https://github.com/breatheco-de/content/blob/master/src/content/lesson/../../assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png?raw=true"
+cover: "https://github.com/breatheco-de/content/blob/master/src/assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png?raw=true"
 textColor: "white"
 tags: ["database","SQL","Postgres","modeling"]
 

@@ -1,3 +1,9 @@
+---
+title: "Guía para hacer Code Reviews efectivos"
+subtitle: "Aprende los conceptos clave de Guía para hacer Code Reviews efectivos con una explicación práctica, clara y orientada a estudiantes de programación."
+tags: ["4geeks"]
+---
+
 # Guía para  hacer Code Reviews efectivos
 
 Los **Code Reviews** son una de las características más interesantes de 4Geeks.com. Le dan al mentor una herramienta rápida para poder revisar código, y al estudiante, una fuente adicional de **feedback** para mejorar como desarrollador. Un Code Review, como su nombre lo indica, no es más que un comentario con respecto a una porción de código. En este artículo analizaremos las características deseables que debe tener un Code Review para ser efectivo para el estudiante.

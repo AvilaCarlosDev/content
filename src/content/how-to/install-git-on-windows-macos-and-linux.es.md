@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende cómo instalar Git en Windows, macOS y Linux con esta guía completa. Instrucciones paso a paso para ayudarte a comenzar con Git."
 title: "¿Cómo instalar Git en Windows, macOS y Linux?"
 description: "Aprende cómo instalar Git en Windows, macOS y Linux con esta guía completa. Instrucciones paso a paso para ayudarte a comenzar con Git."
 tags: ["git", "windows", "macos", "linux", "github"]

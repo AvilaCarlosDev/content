@@ -1,4 +1,7 @@
 ---
+title: "¡Bienvenido a GitHub!"
+subtitle: "Descubre GitHub, la plataforma definitiva para la colaboración en código y la gestión de proyectos. Aprende a crear tu perfil y a conectar con la comunidad tecnológica."
+tags: ["git"]
 description: "Descubre GitHub, la plataforma definitiva para la colaboración en código y la gestión de proyectos. Aprende a crear tu perfil y a conectar con la comunidad tecnológica." 
 technologies: ["github", "git"]
 ---

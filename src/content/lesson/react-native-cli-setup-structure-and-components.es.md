@@ -1,4 +1,5 @@
 ---
+subtitle: "Guía completa para comenzar con React Native CLI; configura tu entorno de desarrollo para iOS y Android, domina los componentes fundamentales (View, Text, Image, ScrollView) y el sistema de props para crear aplicaciones móviles multiplataforma desde cero."
 title: "Fundamentos de React Native: Configuración CLI, Estructura y Componentes Esenciales"
 description: "Guía completa para comenzar con React Native CLI; configura tu entorno de desarrollo para iOS y Android, domina los componentes fundamentales (View, Text, Image, ScrollView) y el sistema de props para crear aplicaciones móviles multiplataforma desde cero."
 author: "Rosinni"

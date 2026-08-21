@@ -1,4 +1,5 @@
 ---
+subtitle: "Descubre cómo Vite, el moderno empaquetador de módulos, mejora tu desarrollo web. Compara sus ventajas con Webpack y optimiza tu flujo de trabajo."
 title: Introducción a Vite como Empaquetador de Módulos
 cover: https://example.com/vite-module-bundler-cover.jpg
 tags:

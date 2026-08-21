@@ -1,4 +1,5 @@
 ---
+subtitle: "Descubre las entradas controladas y no controladas en React.js. Aprende a manejar formularios de manera efectiva y mejora tus habilidades en React."
 title: ¿Qué son las entradas controladas o no controladas en React.js?
 tags:
   - react-js

@@ -1,4 +1,5 @@
 ---
+subtitle: "Learn how to effectively use the useReducer hook in React.js for state management. Discover its benefits and compare it with Redux and Flux!"
 title: What is and How to Use The useReducer Hook in React.js
 cover: >-
   https://www.desktopbackground.org/p/2013/09/13/637935_nasa-wallpapers_1600x1200_h.jpg

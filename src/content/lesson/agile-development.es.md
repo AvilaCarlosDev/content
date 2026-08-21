@@ -1,4 +1,5 @@
 ---
+subtitle: "Descubre cómo construir aplicaciones profesionales con el desarrollo ágil. Aprende a crear, diseñar y entregar proyectos exitosos. ¡Comienza ahora!"
 title: Introducción al desarrollo profesional y ágil.
 tags:
   - desarrollo ágil

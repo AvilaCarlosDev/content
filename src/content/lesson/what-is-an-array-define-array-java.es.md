@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende sobre arreglos y matrices en Java. Domina su declaración, acceso y manipulación. ¡Descubre cómo mejorar tus habilidades de programación hoy!"
 title: Es Hora de Aprender lo que es un Arreglo o Matriz en java
 tags:
   - arreglo

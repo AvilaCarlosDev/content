@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende qué es una base de datos SQL y cómo dominar su uso. Descubre conceptos clave y comienza a trabajar con datos de manera efectiva. ¡Explora ahora!"
 title: 'Dominando Bases de Datos: ¿Qué es la Base de Datos SQL?'
 tags:
   - sql

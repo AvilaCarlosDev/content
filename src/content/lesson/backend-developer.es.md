@@ -1,4 +1,5 @@
 ---
+subtitle: "Descubre el mundo del desarrollo web de Back-End. Aprende sobre la arquitectura cliente-servidor y cómo convertirte en un experto desarrollador Back-End."
 title: ¿Qué hay detrás de un desarrollador de Back-End?
 tags:
   - back-end

@@ -1,4 +1,5 @@
 ---
+subtitle: "Learn HTML and its structure! Discover essential tags and syntax to build your first web page. Start your web development journey today!"
 title: What is HTML? It's time to learn HTML and its structure
 tags:
   - html

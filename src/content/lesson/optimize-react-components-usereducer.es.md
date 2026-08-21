@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende a usar el hook useReducer en React.js para gestionar el estado de tus componentes de manera eficiente. ¡Descubre cómo simplificar tu código hoy!"
 title: ¿Qué es y cómo usar el hook useReducer en React.js
 cover: >-
   https://www.desktopbackground.org/p/2013/09/13/637935_nasa-wallpapers_1600x1200_h.jpg

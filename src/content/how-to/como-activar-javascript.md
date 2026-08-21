@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende a habilitar Javascript en Chrome, Brave, Firefox, Edge y Safari. Mejora tu experiencia en línea. ¡Descubre cómo activar Javascript ahora!"
 title: ¿Cómo Habilitar Javascript?
 authors:
   - javierseiglie

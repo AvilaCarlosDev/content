@@ -1,4 +1,5 @@
 ---
+subtitle: "Discover the essentials of front-end development! Learn how to dynamically create HTML and CSS with JavaScript and unlock your web design potential."
 title: What is Front-End Development
 tags:
   - front-end

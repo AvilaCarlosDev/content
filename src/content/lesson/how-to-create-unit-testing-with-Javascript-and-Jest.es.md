@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende a crear pruebas unitarias con JEST y mejora la calidad de tu código en JavaScript. ¡Descubre cómo asegurar tu desarrollo hoy mismo!"
 title: Cómo crear pruebas unitarias con JEST
 tags:
   - Jest

@@ -1,4 +1,5 @@
 ---
+subtitle: "Descubre qué es la legibilidad del código y cómo mejorarla. Aprende consejos prácticos para escribir código claro y fácil de mantener. ¡Haz clic aquí!"
 title: ¿Qué es la legibilidad del código y cómo mejorarla?
 tags:
   - directrices de programación

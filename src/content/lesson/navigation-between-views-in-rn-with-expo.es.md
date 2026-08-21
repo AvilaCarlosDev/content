@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende a implementar navegación en React Native usando Expo Router y React Navigation. Descubre cómo estructurar rutas, pasar parámetros entre pantallas y elegir entre Stack y Tab navigation para crear apps móviles escalables y mantenibles."
 title: "Domina la navegación entre vistas en React Native con Expo"
 description: "Aprende a implementar navegación en React Native usando Expo Router y React Navigation. Descubre cómo estructurar rutas, pasar parámetros entre pantallas y elegir entre Stack y Tab navigation para crear apps móviles escalables y mantenibles."
 author: "rosinni"

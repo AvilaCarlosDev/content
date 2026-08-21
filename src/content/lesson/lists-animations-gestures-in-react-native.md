@@ -1,4 +1,5 @@
 ---
+subtitle: "Master high-performance dynamic interfaces with FlatList, FlashList, Reanimated 3, and Gesture Handler v2. Learn optimizations, 60 FPS animations, and native gestures."
 title: "Lists, Animations & Gestures in React Native"
 description: "Master high-performance dynamic interfaces with FlatList, FlashList, Reanimated 3, and Gesture Handler v2. Learn optimizations, 60 FPS animations, and native gestures."
 author: "rosinni"

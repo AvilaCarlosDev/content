@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende sobre algoritmos de ordenamiento y búsqueda en Python. Optimiza la gestión de datos y mejora tus habilidades de programación. ¡Descubre más!"
 title: >-
   Algoritmos de Ordenamiento y Búsqueda en Python: Optimizando la Gestión de
   Datos

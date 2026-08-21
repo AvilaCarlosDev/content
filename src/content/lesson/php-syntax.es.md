@@ -1,4 +1,5 @@
 ---
+subtitle: "Domina la sintaxis de PHP con nuestra guía fácil de seguir. Aprende conceptos esenciales, tipos de datos y ejemplos prácticos. Entiende la estructura principal de la programación en PHP y cómo se compara con JavaScript. Comienza a programar hoy y explora todo el potencial de PHP para el desarrollo web."
 title: Entendiendo la Sintaxis de PHP
 tags:
   - PHP

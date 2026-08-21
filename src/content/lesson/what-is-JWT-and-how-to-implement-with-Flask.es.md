@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende cómo implementar JWT para una autenticación segura en tu API de Flask. ¡Descubre pasos sencillos para mejorar la seguridad de tu aplicación hoy!"
 title: "Comprendiendo JWT y como implementar un JWT simple con Flask"
 tags: ["HTTP", "API", "Security", "Authentication"]
 description: "Aprende cómo implementar JWT para una autenticación segura en tu API de Flask. ¡Descubre pasos sencillos para mejorar la seguridad de tu aplicación hoy!"

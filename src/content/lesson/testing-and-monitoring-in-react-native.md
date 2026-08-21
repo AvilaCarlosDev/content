@@ -1,4 +1,5 @@
 ---
+subtitle: "How to ensure quality and stability in mobile apps with Jest, React Native Testing Library, and structured logging"
 title: "Testing and Monitoring in React Native"
 description: "How to ensure quality and stability in mobile apps with Jest, React Native Testing Library, and structured logging"
 authors:

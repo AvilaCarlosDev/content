@@ -1,4 +1,5 @@
 ---
+subtitle: "Learn the basics of Python syntax, loops, and conditionals. Discover how to kickstart your coding journey with this engaging introduction!"
 title: Introduction to Python
 author:
   - alesanchezr

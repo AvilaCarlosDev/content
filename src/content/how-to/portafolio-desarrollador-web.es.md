@@ -1,4 +1,6 @@
 ---
+subtitle: "Aprende los conceptos clave de Impulsa tu marca personal como desarrollador con tu portafolio web con una explicación práctica, clara y orientada a estudiantes de programación."
+tags: ["JavaScript", "Python", "react", "HTML", "CSS", "career"]
 author: "castilloabraham"
 excerpt: "En el desarrollo web es de importe tener un portafolio en línea que te ayude a destacar entre el resto de candidatos a una misma posicion, en este artículo te enseñamos como crear uno."
 template: "post"
