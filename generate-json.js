@@ -63,7 +63,7 @@ const getLanguage = (lesson) => {
 };
 
 const createContentJSON =(content, fileName) => {
-    if (!fs.existsSync("public/static/api")) fs.mkdirSync("public/static/api");
+    if (!fs.existsSync("public/static/api")) fs.mkdirSync("public/static/api", { recursive: true });
     fs.writeFileSync("public/static/api/"+fileName+".json", JSON.stringify(content));
 };
 

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "How to Learn Coding with LearnPack"
 subtitle: "Discover how to start coding with LearnPack! Explore interactive tutorials, setup guides, and troubleshooting tips to enhance your coding journey."
 tags: ["4geeks"]

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: Preparing for the software developer interview
 subtitle: "Master your software developer interview with essential tips on preparation, coding skills, and impressing employers. Discover how to stand out!"tags:
   - job interview

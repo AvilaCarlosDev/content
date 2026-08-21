@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Learn how to implement JWT for secure API authentication with Express. Discover simple steps to create and validate tokens effectively!"
 title: Understanding JWT and how to implement a simple JWT with Express
 tags:

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "¡Bienvenid@ al Programa de Python a profundidad en 4Geeks.com! Aprende, practica y domina Python con recursos interactivos y mentoría. ¡Comienza tu viaje hoy!"
 tags: ["Python"]
 title: ¡Bienvenid@ al Programa de Python a profundidad 4Geeks.com!

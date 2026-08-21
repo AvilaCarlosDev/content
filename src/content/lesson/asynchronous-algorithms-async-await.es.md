@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Aprende a crear algoritmos asíncronos en JavaScript. Domina async, await y Promises para mejorar la eficiencia de tus aplicaciones web. ¡Descubre más!"
 slug: asincrono-algoritmos-async-await
 title: Creando algoritmos asíncronos

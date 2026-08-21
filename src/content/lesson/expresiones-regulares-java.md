@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "Expresiones Regulares en Java: Guía Completa para su Uso"
 subtitle: "Aprende a utilizar expresiones regulares en Java para buscar y manipular patrones de texto. Descubre cómo aprovechar esta poderosa herramienta en tus proyectos de programación."
 tags: ["java","expresiones-regulares"]

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master HTML debugging with our efficient guide! Learn essential tips and tools to save time and prevent errors in your web development projects."
 title: Depurando código HTML
 tags:

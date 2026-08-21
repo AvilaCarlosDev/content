@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "JavaScript Array Flatten"
 subtitle: "Master JavaScript array flattening with essential techniques and examples! Discover how to manipulate arrays effortlessly—click to learn more!"
 tags: ["JavaScript"]

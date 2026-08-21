@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Learn how to use the forEach method in JavaScript to iterate through arrays effectively. Discover practical examples and enhance your coding skills today!"
 title: How to use Foreach method in Javascript?
 tags:

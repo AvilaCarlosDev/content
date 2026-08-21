@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "How to combine OTA updates and hardening to keep your React Native apps secure, fast to iterate, and resilient against real-world threats. Learn how to deploy JavaScript changes in minutes while implementing the security layers needed to protect your code, your users, and your infrastructure"
 title: "OTA Updates and Hardening in React Native CLI"
 description: "How to combine OTA updates and hardening to keep your React Native apps secure, fast to iterate, and resilient against real-world threats. Learn how to deploy JavaScript changes in minutes while implementing the security layers needed to protect your code, your users, and your infrastructure"

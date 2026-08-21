@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Learn the difference between controlled and uncontrolled inputs in React.js. Master form handling and enhance your app's performance today!"
 title: What are controlled and/or uncontrolled inputs in React.js
 tags:

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "Fundamentos de Diseño de Interfaces y experiencia de usuario - UI/UX"
 subtitle: "Ademas de buenas funcionalidades, queremos que nuestra aplicación web sea intuitiva para el usuario. Queremos que no necesite ayuda para navegarla y utilizar las funcionalidades que tiene, por ello es que debemos entender cómo lograr esto con un buen diseño y experiencia de usuario"
 cover_local: "../../assets/images/cdbe1bf9-2b6b-4c21-b127-eacc681d9c8d.png"

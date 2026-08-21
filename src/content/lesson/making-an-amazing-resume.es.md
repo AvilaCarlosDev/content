@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master the art of crafting an incredible resume! Learn essential tips to enhance your CV and land interviews in the tech industry. Discover more!"
 title: Creando un curriculum increíble
 tags:

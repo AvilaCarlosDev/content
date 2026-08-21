@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Discover how third-party libraries in Python, like Pandas and NumPy, can enhance your projects. Learn to install and use them effectively!"
 title: What Are Third-Party Libraries Used for in Python?
 tags:

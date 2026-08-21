@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master PHP sessions and learn to manage user data securely. Discover essential techniques for effective session handling in your web applications!"
 title: Understanding PHP Sessions
 tags:

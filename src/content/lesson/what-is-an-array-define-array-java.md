@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Aprende qué es un arreglo o matriz en Java y cómo utilizarlos. ¡Descubre conceptos clave y mejora tus habilidades de programación hoy mismo!"
 title: Es Hora de Aprender lo que es un Arreglo o Matriz en java
 tags:

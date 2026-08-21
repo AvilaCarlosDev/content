@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "APIs y librerías para integrar en tus proyectos Fullstack"
 subtitle: "Cuando haces un proyecto para tu portafolio de desarrollador Fullstack quieres demostrar hasta donde puedes llegar. Estas APIs y librerías pueden ayudarte a hacer brillar tu proyecto y llamar la atención de ese reclutador que te está buscando"
 cover_local: "../../assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png"

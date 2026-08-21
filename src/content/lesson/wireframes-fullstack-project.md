@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "UI/UX: Interface Design and User Experience Fundamentals"
 subtitle: "In addition to good functionality, we want our web application to be intuitive for the user. We don't want them to need help to navigate it and use its functionalities, that's why we must understand how to achieve this with a good design and user experience."
 cover_local: "../../assets/images/cdbe1bf9-2b6b-4c21-b127-eacc681d9c8d.png"

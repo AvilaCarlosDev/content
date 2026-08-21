@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master the art of networking to land your dream IT job! Discover essential tips and strategies to connect with industry professionals today."
 title: How to network yourself into an IT job
 tags:

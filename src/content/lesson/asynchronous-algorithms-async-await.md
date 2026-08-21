@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master asynchronous algorithms in JavaScript! Learn about Promises, async/await, and enhance your web applications. Discover more now!"
 title: Creating asynchronous algorithms
 authors:

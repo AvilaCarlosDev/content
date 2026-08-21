@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "Elegir un Proyecto Final"
 subtitle: "Descubre las consideraciones clave y evita errores comunes al elegir tu proyecto final. Aprende de estos consejos experimentados para asegurar el éxito en tu trayectoria de proyecto."
 tags: ["4geeks"]

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Aprende a utilizar Gitpod, el editor de código en la nube. Descubre cómo simplificar tu flujo de trabajo y mejora tu programación hoy mismo. ¡Comienza ahora!"
 title: Como utilizar Gitpod
 tags:

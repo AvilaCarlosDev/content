@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Aprende a construir APIs REST con Flask, el popular framework de Python. ¡Descubre cómo crear endpoints y manejar datos de forma sencilla!"
 title: Construyendo APIs REST utilizando Flask
 tags:

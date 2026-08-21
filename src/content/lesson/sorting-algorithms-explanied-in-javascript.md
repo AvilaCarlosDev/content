@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master sorting algorithms in JavaScript! Learn Bubble, Selection, and Quick Sort techniques to efficiently sort lists. Discover more now!"
 title: Using javascript to sort a list
 tags:

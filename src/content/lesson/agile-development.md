@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master Agile Development and build professional web applications step-by-step. Discover the workflow that transforms coding into creation!"
 title: Intro to Professional and Agile Development
 tags:

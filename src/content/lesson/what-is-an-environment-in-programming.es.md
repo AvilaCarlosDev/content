@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Domina el uso de las variables de entorno en la programación para optimizar y asegurar tu desarrollo en múltiples tecnologías como Python, NodeJS, PHP, etc."
 title: "Entendiendo los Entornos y las Variables de Entorno en la Programación"
 description: "Domina el uso de las variables de entorno en la programación para optimizar y asegurar tu desarrollo en múltiples tecnologías como Python, NodeJS, PHP, etc."

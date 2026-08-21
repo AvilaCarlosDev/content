@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Learn to integrate APIs without jank or unnecessary spinners using React Query. Cache strategies, request optimization, and intelligent loading states."
 title: "Data Fetching for Smooth UI with React Query"
 description: "Learn to integrate APIs without jank or unnecessary spinners using React Query. Cache strategies, request optimization, and intelligent loading states."

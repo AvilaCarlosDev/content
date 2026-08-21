@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Learn the Snake Case variable naming convention for better readability in programming. Discover essential rules and best practices now!"
 title: The Snake Case Variable Naming Convention
 tags:

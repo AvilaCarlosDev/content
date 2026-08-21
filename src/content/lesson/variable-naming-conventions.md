@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master variable naming conventions to boost code readability! Learn essential tips on camelCase, snake_case, and more for better coding practices."
 title: Variable Naming Conventions
 tags:

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Learn how to effectively use the useReducer hook in React.js for state management. Discover its benefits and compare it with Redux and Flux!"
 title: What is and How to Use The useReducer Hook in React.js
 cover: >-

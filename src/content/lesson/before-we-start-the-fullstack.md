@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master essential HTML, CSS, and JavaScript concepts before diving into Full Stack Development. Discover key skills to boost your web development journey!"
 title: Before Starting Full Stack Development
 video: https://www.youtube.com/watch?v=ijEp5XHm7qo

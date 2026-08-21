@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "Build and operate database with SQL Alchemy"
 subtitle: "SQLAlchemy in its version 2 allows us to manage our database as if they were ordinary objects in the code. Learn how to take advantage of this powerful ORM."
 tags: ["python","databases","sqlalchemy","sql"]

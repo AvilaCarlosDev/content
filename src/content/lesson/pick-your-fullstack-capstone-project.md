@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "Choosing a Final Project"
 subtitle: "Discover key considerations and avoid common mistakes when choosing your final project. Learn from these experienced tips to ensure success in your project journey."
 tags: ["4geeks"]

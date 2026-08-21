@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Join the 4Geeks.com Python Mastering Program! Discover hands-on coding, AI tutoring, and mentoring sessions to elevate your Python skills. Start learning today!"
 tags: ["Python"]
 title: Welcome to 4Geeks.com Python Mastering Program!

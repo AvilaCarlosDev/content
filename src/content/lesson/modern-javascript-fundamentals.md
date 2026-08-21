@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "A complete and practical guide to modern JavaScript tools and patterns for developers experienced in other programming languages."
 title: "Modern JavaScript Fundamentals"
 author: "rosinni"

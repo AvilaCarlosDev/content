@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master routing in your React applications with React Router! Discover how to connect views seamlessly and enhance user navigation. Click to learn more!"
 title: Routing our Views with React Router
 tags:

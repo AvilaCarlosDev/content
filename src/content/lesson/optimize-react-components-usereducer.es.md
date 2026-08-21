@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Aprende a usar el hook useReducer en React.js para gestionar el estado de tus componentes de manera eficiente. ¡Descubre cómo simplificar tu código hoy!"
 title: ¿Qué es y cómo usar el hook useReducer en React.js
 cover: >-

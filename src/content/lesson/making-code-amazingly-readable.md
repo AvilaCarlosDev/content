@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Discover the importance of code readability and learn essential tips to improve it. Master clean coding practices for better maintainability and fewer errors!"
 title: What is code readability and how to improve it
 tags:

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "¡Bienvenid@ al Programa de Ciencia de Datos y Machine Learning de 4Geeks.com! Aprende, programa y comienza tu carrera en tecnología. ¡Descubre más ahora!"
 title: ¡Bienvenid@ al Programa de Ciencia de Datos y Machine Learning de 4Geeks.com!
 description: >-

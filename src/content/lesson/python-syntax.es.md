@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Aprende las bases de Python: sintaxis, bucles, tipos de datos y condicionales. ¡Descubre cómo este poderoso lenguaje puede transformar tu programación!"
 title: ¿Qué es Python?
 author:

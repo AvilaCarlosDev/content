@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Descubre qué es la legibilidad del código y aprende consejos prácticos para mejorarla. ¡Escribe código claro y fácil de mantener hoy mismo!"
 title: ¿Qué es la legibilidad del código y cómo mejorarla?
 tags:

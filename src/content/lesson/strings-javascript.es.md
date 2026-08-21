@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "¿Qué es un string en Javascript?"
 subtitle: "Descubre qué es un string en JavaScript y cómo se utiliza para almacenar y manipular texto. Aprende los conceptos básicos y ejemplos prácticos en esta guía."
 tags: ["javascript","string-concatenation"]

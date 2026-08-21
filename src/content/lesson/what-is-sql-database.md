@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master SQL databases and unlock data's potential! Learn the essentials of SQL, from queries to transactions. Discover more now!"
 title: 'Mastering Databases: What is SQL Database'
 tags:

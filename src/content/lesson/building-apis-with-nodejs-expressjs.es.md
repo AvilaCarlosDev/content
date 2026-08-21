@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Aprende a construir APIs REST con Expressjs de manera rápida y flexible. ¡Descubre cómo crear endpoints y manejar solicitudes en tu proyecto hoy!"
 title: Construyendo APIs REST utilizando Expressjs
 tags:

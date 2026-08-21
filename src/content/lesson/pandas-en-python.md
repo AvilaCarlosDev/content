@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "¿Qué es Pandas en Python?"
 subtitle: "Aprende a manipular, transformar y analizar conjuntos de datos de manera eficiente con Pandas. Introducción completa a Pandas, la biblioteca de Python para el análisis de datos."
 tags: ["python","pandas"]

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "Convenciones de Nombres de Variables"
 subtitle: "Las convenciones de nombres son una de las herramientas más efectivas para aumentar la legibilidad del código. Casi todas las empresas tienen una, y tú también deberías tener una."
 tags: ["coding standard guidelines", "node", "javascript", "python"]

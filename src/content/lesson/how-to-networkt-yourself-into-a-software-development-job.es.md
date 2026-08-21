@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Aprende a 'venderte' en IT y a crear redes efectivas. Descubre cómo conectar con reclutadores y conseguir tu trabajo ideal en desarrollo de software."
 title: Como 'venderte' para conseguir trabajo en IT
 tags:

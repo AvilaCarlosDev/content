@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "Introducción a los diccionarios en Python: Estructuras clave-valor para organizar y acceder a datos"
 subtitle: "Descubre qué son los diccionarios en Python y cómo se utilizan. Aprende cómo aprovechar estas estructuras de datos para organizar y acceder eficientemente a información."
 tags: ["python", "data-science", "git"]

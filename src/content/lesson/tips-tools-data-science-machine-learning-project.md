@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "Tips and tools to build a Data Science and Machine Learning project"
 subtitle: "When building a Data Science and Machine Learning project there are things to be considered, specially if you are looking for a job. Here you find tips to make a project make a cv stand out from the crowd, and a list of sites where you can find useful datasets to kickstart your project."
 cover: "https://github.com/breatheco-de/content/blob/master/src/assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png?raw=true"

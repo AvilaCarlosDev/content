@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "Dispatcher Pattern"
 subtitle: "Master the dispatcher pattern in React! Learn its importance, explore examples with useReducer, Flux, and Redux. Discover how to enhance your front-end development!"
 tags: ["react"]
