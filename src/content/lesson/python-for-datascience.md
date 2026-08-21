@@ -1,4 +1,5 @@
 ---
+subtitle: "Learn how Python powers data science with essential concepts and libraries. Discover practical examples to elevate your data skills today!"
 title: Python for Data Science
 tags:
   - data-science

@@ -1,4 +1,5 @@
 ---
+subtitle: "Master Object Oriented Programming! Learn about classes, encapsulation, and reusability to enhance your coding skills. Discover the power of OOP today!"
 title: Object Oriented Programming
 tags:
   - object oriented programming

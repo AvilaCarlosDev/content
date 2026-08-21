@@ -1,4 +1,5 @@
 ---
+subtitle: "Una guía completa y práctica sobre las herramientas y patrones modernos de JavaScript para desarrolladores con experiencia en otros lenguajes de programación."
 title: "Fundamentos de JavaScript Moderno"
 author: "rosinni"
 tags:

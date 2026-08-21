@@ -1,4 +1,7 @@
 ---
+title: "Welcome to GitHub"
+subtitle: "Discover GitHub, the ultimate platform for code collaboration and project management. Learn how to build your profile and connect with the tech community!"
+tags: ["git"]
 description: "Discover GitHub, the ultimate platform for code collaboration and project management. Learn how to build your profile and connect with the tech community!" 
 technologies: ["github", "git"]
 ---

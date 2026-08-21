@@ -1,4 +1,7 @@
 ---
+title: "¿Que son patrones de diseño?"
+subtitle: "Learn essential React design patterns to enhance your app's scalability and efficiency. Discover practical examples and elevate your coding skills today!"
+tags: ["react"]
 description: >-
   Learn essential React design patterns to enhance your app's scalability and
   efficiency. Discover practical examples and elevate your coding skills today!

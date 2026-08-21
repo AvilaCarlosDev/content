@@ -1,4 +1,5 @@
 ---
+subtitle: "Practical guide to using camera, biometrics, permissions, and creating native code bridges (native modules). For developers coming from Kotlin/Swift."
 title: "Native APIs in React Native: From JavaScript to Device Metal"
 author: rosinni
 description: "Practical guide to using camera, biometrics, permissions, and creating native code bridges (native modules). For developers coming from Kotlin/Swift."

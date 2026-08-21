@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende a implementar autenticación basada en tokens de acceso para tu API. Mejora la seguridad de tu aplicación. ¡Descubre cómo empezar ahora!"
 title: Autenticación basada en tokens de acceso para tu API
 tags:
   - authentication

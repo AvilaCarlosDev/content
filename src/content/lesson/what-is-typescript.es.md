@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende qué es TypeScript, el superset de JavaScript que mejora tus desarrollos. ¡Descubre sus ventajas y comienza a programar hoy mismo!"
 title: ¿Qué es Typescript? Aprenderás a Programar usando este superSet de javascript
 tags:
   - typescript

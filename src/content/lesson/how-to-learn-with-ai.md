@@ -1,4 +1,7 @@
 ---
+title: "How to learn code with AI using LearnPack?"
+subtitle: "Learn to code with AI using LearnPack! Get personalized guidance, feedback, and support on your coding journey. Discover how to enhance your skills today!"
+tags: ["4geeks"]
 description: >-
   Learn to code with AI using LearnPack! Get personalized guidance, feedback,
   and support on your coding journey. Discover how to enhance your skills today!

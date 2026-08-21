@@ -1,4 +1,5 @@
 ---
+subtitle: "Discover the fundamentals of Object Oriented Programming (OOP) in Python! Learn to create organized, reusable code and master essential concepts today!"
 title: What is Object Oriented Programming?
 tags:
   - python

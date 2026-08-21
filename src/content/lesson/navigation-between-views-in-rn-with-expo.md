@@ -1,4 +1,5 @@
 ---
+subtitle: "Learn how to implement navigation in React Native using Expo Router and React Navigation. Discover how to structure routes, pass parameters between screens, and choose between Stack and Tab navigation to create scalable and maintainable mobile apps."
 title: "Master Navigation Between Views in React Native with Expo"
 description: "Learn how to implement navigation in React Native using Expo Router and React Navigation. Discover how to structure routes, pass parameters between screens, and choose between Stack and Tab navigation to create scalable and maintainable mobile apps."
 author: "rosinni"

@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende cómo instalar NVM en Linux. Cubriendo distribuciones populares como Ubuntu y Fedora. Perfecto para desarrolladores que buscan manejar múltiples versiones de Node.js."
 title: "¿Cómo Instalar NVM en Linux?"
 description: "Aprende cómo instalar NVM en Linux. Cubriendo distribuciones populares como Ubuntu y Fedora. Perfecto para desarrolladores que buscan manejar múltiples versiones de Node.js."
 authors: ["alesanchezr"]

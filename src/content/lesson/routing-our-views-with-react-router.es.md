@@ -1,4 +1,5 @@
 ---
+subtitle: "Master React Router to seamlessly connect your app's views! Learn to implement routing and enhance navigation in your React applications. Discover more!"
 title: Enrutando nuestras vistas con React Router
 tags:
   - reactjs

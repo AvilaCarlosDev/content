@@ -1,4 +1,5 @@
 ---
+subtitle: "Master debugging techniques to fix code errors faster and more efficiently. Discover essential tips that can save you time and improve your coding skills!"
 title: What is debugging and how to debug code
 tags:
   - debugging

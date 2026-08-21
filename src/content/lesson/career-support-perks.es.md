@@ -1,4 +1,5 @@
 ---
+subtitle: "Unlock exclusive career support benefits for 4Geeks students! Discover platforms, perks, and opportunities to boost your job search today!"
 title: Career Support Benefits for 4Geeks Students
 tags:
   - career-support

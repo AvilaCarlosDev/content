@@ -1,4 +1,5 @@
 ---
+subtitle: "Antes de comenzar el desarrollo Full Stack, descubre los conceptos clave de HTML, CSS y JavaScript. ¡Prepárate y aprende lo esencial ahora!"
 title: Antes de comenzar el desarrollo Full Stack
 tags:
   - html/css

@@ -1,4 +1,7 @@
 ---
+title: "Code Reviews y su importancia para futuros desarrolladores"
+subtitle: "Descubre la importancia de los Code Reviews para mejorar tu código. Aprende buenas prácticas y recibe feedback valioso para avanzar en tu desarrollo."
+tags: ["4geeks"]
 description: >-
   Descubre la importancia de los Code Reviews para mejorar tu código. Aprende
   buenas prácticas y recibe feedback valioso para avanzar en tu desarrollo.

@@ -1,4 +1,5 @@
 ---
+subtitle: "Discover how Vite, a modern module bundler, enhances web development with speed and simplicity. Learn its advantages over Webpack today!"
 title: Introduction to Vite as a Module Bundler
 cover: https://example.com/vite-module-bundler-cover.jpg
 tags:

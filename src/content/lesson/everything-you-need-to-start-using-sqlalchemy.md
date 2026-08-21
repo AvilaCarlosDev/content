@@ -1,4 +1,5 @@
 ---
+subtitle: "Discover how to use SQLAlchemy, the most popular ORM for Python. Learn to handle databases easily in just 8 minutes. Start now!"
 slug: everything-you-need-to-start-using-sqlalchemy
 title: Everything You Need to Know About SQLAlchemy
 authors:

@@ -1,8 +1,9 @@
 ---
+subtitle: "Descubre técnicas avanzadas de navegación en React Native con Expo Router: cómo crear rutas anidadas complejas, personalizar headers dinámicamente y construir flujos condicionales según el estado de autenticación. Lleva tus apps al siguiente nivel."
 title: "Navegación avanzada en React Native: rutas anidadas y headers"
 description: "Descubre técnicas avanzadas de navegación en React Native con Expo Router: cómo crear rutas anidadas complejas, personalizar headers dinámicamente y construir flujos condicionales según el estado de autenticación. Lleva tus apps al siguiente nivel."
 author: ""
-date: ""
+date: "2026-08-21"
 tags: ["React Native", "Expo Router", "Navegación Avanzada", "TypeScript", "UX Móvil"]
 category: "Desarrollo Móvil"
 published: true

@@ -1,4 +1,5 @@
 ---
+subtitle: "Master PHP sessions and learn to manage user data effectively. Discover best practices for security and session management in web development!"
 title: Entendiendo las sesiones de PHP
 tags:
   - PHP

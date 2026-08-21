@@ -1,4 +1,5 @@
 ---
+subtitle: "Master sorting and searching algorithms in Python! Optimize your data management skills and discover essential techniques to enhance your programming efficiency."
 title: 'Sorting and Searching Algorithms in Python: Optimizing Data Management'
 tags:
   - python

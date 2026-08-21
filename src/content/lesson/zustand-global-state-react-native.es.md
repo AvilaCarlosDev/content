@@ -1,4 +1,5 @@
 ---
+subtitle: "Guía práctica de Zustand para desarrolladores mobile que vienen de Kotlin y Swift. Aprende a manejar estado global en React Native sin complicaciones."
 title: "Zustand: Estado Global en React Native Sin el Drama"
 author: rosinni
 description: "Guía práctica de Zustand para desarrolladores mobile que vienen de Kotlin y Swift. Aprende a manejar estado global en React Native sin complicaciones."

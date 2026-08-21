@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende qué es la depuración y cómo depurar el código de manera eficiente. ¡Descubre técnicas que te ahorrarán tiempo y mejorarán tus habilidades de programación!"
 title: ¿Qué es la depuración y cómo depurar el código?
 tags:
   - debugging

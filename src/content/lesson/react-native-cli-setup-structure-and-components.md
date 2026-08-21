@@ -1,4 +1,5 @@
 ---
+subtitle: "Comprehensive guide to getting started with React Native CLI; set up your development environment for iOS and Android, master the fundamental components (View, Text, Image, ScrollView), and the props system to build cross-platform mobile apps from scratch."
 title: "React Native Fundamentals: CLI Setup, Structure, and Essential Components"
 description: "Comprehensive guide to getting started with React Native CLI; set up your development environment for iOS and Android, master the fundamental components (View, Text, Image, ScrollView), and the props system to build cross-platform mobile apps from scratch."
 author: "Rosinni"

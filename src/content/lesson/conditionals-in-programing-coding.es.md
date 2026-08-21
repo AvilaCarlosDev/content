@@ -1,4 +1,5 @@
 ---
+subtitle: "Domina los condicionales de JavaScript para controlar el flujo de su código. Aprende sobre las sentencias if-else, los operadores lógicos y mucho más. Descubre el poder de las condiciones."
 title: Condicionales en la programación con JavaScript
 author:
   - alesanchezr

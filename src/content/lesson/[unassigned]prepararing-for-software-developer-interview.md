@@ -1,7 +1,6 @@
 ---
 title: Preparing for the software developer interview
-subtitle: ''
-tags:
+subtitle: "Master your software developer interview with essential tips on preparation, coding skills, and impressing employers. Discover how to stand out!"tags:
   - job interview
   - recruiting
 description: >-

@@ -1,4 +1,6 @@
 ---
+subtitle: "Aprende los conceptos clave de Como crear un Portfolio usando GitHub? con una explicación práctica, clara y orientada a estudiantes de programación."
+tags: ["git", "career"]
 author: "castilloabraham"
 excerpt: "Aprende con nosotros como crear un Portfolio usando GitHub y sobresaltar entre el resto de candidatos mientras buscas un nuevo trabajo."
 template: "post"

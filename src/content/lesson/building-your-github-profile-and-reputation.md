@@ -1,4 +1,5 @@
 ---
+subtitle: "Master your GitHub profile and reputation! Learn essential tips to showcase your skills and attract recruiters in the competitive job market."
 title: Building your GitHub profile and reputation
 authors:
   - alesanchezr

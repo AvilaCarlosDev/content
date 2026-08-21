@@ -1,4 +1,7 @@
 ---
+title: "Algoritmos y Programación"
+subtitle: "¡Descubre el fascinante mundo de Algoritmos y Programación! Aprende Python y desarrolla habilidades lógicas para resolver problemas de manera divertida."
+tags: ["Python"]
 description: >-
   ¡Descubre el fascinante mundo de Algoritmos y Programación! Aprende Python y
   desarrolla habilidades lógicas para resolver problemas de manera divertida.

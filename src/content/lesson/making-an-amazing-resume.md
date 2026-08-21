@@ -1,4 +1,5 @@
 ---
+subtitle: "Master the art of crafting an amazing resume that lands interviews! Discover essential tips and examples to showcase your skills effectively."
 title: Making an amazing resume
 tags:
   - career support

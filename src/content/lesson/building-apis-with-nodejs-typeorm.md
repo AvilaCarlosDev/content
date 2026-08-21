@@ -1,4 +1,5 @@
 ---
+subtitle: "Learn how to connect a database to your REST API using TypeORM. Discover simple ORM techniques to streamline your data management today!"
 title: Connecting a Database to Our REST API
 tags:
   - typeOrm

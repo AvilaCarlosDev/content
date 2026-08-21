@@ -1,4 +1,5 @@
 ---
+subtitle: "Master condicionales en Java y controla el flujo de tu código. Aprende a usar if-then-else y switch. ¡Descubre cómo tomar decisiones efectivas!"
 title: Condicionales en la programación en Java
 syntaxis:
   - java

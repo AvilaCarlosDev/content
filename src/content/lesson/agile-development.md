@@ -1,4 +1,5 @@
 ---
+subtitle: "Master Agile Development and build professional web applications step-by-step. Discover the workflow that transforms coding into creation!"
 title: Intro to Professional and Agile Development
 tags:
   - agile development

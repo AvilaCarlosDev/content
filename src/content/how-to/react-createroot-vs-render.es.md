@@ -1,4 +1,6 @@
 ---
+title: "createRoot es lo que conecta React al DOM tradicional de JS"
+subtitle: "Descubre los beneficios de usar la función createRoot de React, introducida en React v18, mientras exploramos su papel en reemplazar ReactDOM.render"
 subject: "Acerca de la función ReactDOM.createRoot vs ReactDOM.render"
 description: "Descubre los beneficios de usar la función createRoot de React, introducida en React v18, mientras exploramos su papel en reemplazar ReactDOM.render"
 tags: ["react", "javascript"]

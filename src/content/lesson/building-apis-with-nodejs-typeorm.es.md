@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende cómo conectar una base de datos a tu API REST usando TypeORM. Domina la gestión eficiente de datos y la simplicidad en el código."
 title: Conectando una base de datos a nuestra API REST
 tags:
   - typeOrm

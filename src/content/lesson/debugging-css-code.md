@@ -1,4 +1,5 @@
 ---
+subtitle: "Master CSS debugging with our guide! Learn essential tools and tips to fix styles efficiently and save time. Discover how to debug CSS like a pro!"
 title: Debugging CSS Code
 tags:
   - debugging

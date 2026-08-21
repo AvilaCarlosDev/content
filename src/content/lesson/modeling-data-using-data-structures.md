@@ -1,4 +1,5 @@
 ---
+subtitle: "Master data structures to efficiently store your business needs! Discover how arrays, stacks, queues, and more can enhance your coding skills today!"
 title: Using data-structures to store our business needs
 tags:
   - data structures

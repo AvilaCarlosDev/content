@@ -1,3 +1,9 @@
+---
+title: "Expresiones Regulares Ejemplos"
+subtitle: "Learn the key concepts behind Expresiones Regulares Ejemplos with a practical, clear explanation designed for programming students."
+tags: ["4geeks"]
+---
+
 ## Expresiones Regulares Ejemplos
 
 Las expresiones regulares (regex), nos permiten buscar, verificar y modificar una patrón específico en una cadena de texto, estas estructura son muy utilizadas en la programación ya sea para buscar una palabra específica en una cadena de texto o más comúnmente en formularios para acergurar que los usuarios ingresen la información con una estructura correcta. 

@@ -1,4 +1,5 @@
 ---
+subtitle: "Aprende a usar JavaScript para ordenar listas con algoritmos como bubble-sort, selection y quicksort. ¡Descubre cómo mejorar tus habilidades algorítmicas!"
 title: Usando javascript para ordenar una lista
 tags:
   - sorting

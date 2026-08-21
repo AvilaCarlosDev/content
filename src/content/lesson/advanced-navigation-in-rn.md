@@ -1,8 +1,9 @@
 ---
+subtitle: "Discover advanced navigation techniques in React Native with Expo Router: how to create complex nested routes, dynamically customize headers, and build conditional flows based on authentication state. Take your apps to the next level."
 title: "Advanced Navigation in React Native: Nested Routes and Headers"
 description: "Discover advanced navigation techniques in React Native with Expo Router: how to create complex nested routes, dynamically customize headers, and build conditional flows based on authentication state. Take your apps to the next level."
 author: ""
-date: ""
+date: "2026-08-21"
 tags: ["React Native", "Expo Router", "Advanced Navigation", "TypeScript", "Mobile UX"]
 category: "Mobile Development"
 published: true

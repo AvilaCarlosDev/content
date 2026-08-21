@@ -1,7 +1,7 @@
 ---
 title: "Bootstrap Tutorial: Learn Bootstrap 5 in 10 minutes"
 subtitle: "After decades of struggling, the light has arrived!! With this Bootstrap tutorial, designing a website will be a piece of cake. It's almost stupid, and, also impossible to think about doing a website without a CSS framework like Bootstrap 5."
-cover_local: "https://github.com/breatheco-de/content/blob/master/src/content/lesson/../../assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png?raw=true"
+cover: "https://github.com/breatheco-de/content/blob/master/src/assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png?raw=true"
 textColor: "white"
 date: "2020-10-19T16:36:30+00:00"
 tags: ["bootstrap", "html-and-css"]

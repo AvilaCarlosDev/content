@@ -1,4 +1,5 @@
 ---
+subtitle: "Learn to structure your React Native projects professionally and scalably using a modular architecture with TypeScript. Practical guide with real examples."
 title: "Modular Architecture in React Native CLI with TypeScript"
 description: "Learn to structure your React Native projects professionally and scalably using a modular architecture with TypeScript. Practical guide with real examples."
 author: "Rosinni"
