@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "Módulos en Python: Organizando y Reutilizando Código como un Experto"
 subtitle: "Aprende sobre los módulos en Python y cómo aprovecharlos para organizar y reutilizar tu código de manera eficiente. ¡Mejora tus habilidades de programación!"
 tags: ["python"]

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Learn how to build your first resume as a software developer with expert tips and templates. Discover essential strategies for crafting a standout resume!"
 slug: build-your-first-resume
 title: Build your first resume

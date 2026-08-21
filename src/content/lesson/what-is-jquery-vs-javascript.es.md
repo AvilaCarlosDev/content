@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Learn the key differences between jQuery and JavaScript! Discover which one suits your development needs best. Click to master your skills today!"
 title: 'Aprende La Diferencia: Jquery vs Javascript'
 tags:

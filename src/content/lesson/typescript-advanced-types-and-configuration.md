@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master compound types, generics, and TypeScript configuration. A practical guide for developers who want to make the most of static typing in their projects."
 title: "TypeScript: Advanced Types and Configuration"
 author: "rosinni"

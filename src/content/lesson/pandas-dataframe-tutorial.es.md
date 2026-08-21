@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "Pandas Dataframe Tutorial"
 subtitle: "Master Pandas DataFrames with our tutorial! Learn essential techniques to boost your data analysis skills. Discover tips and tricks today!"
 tags: ["Python", "pandas"]

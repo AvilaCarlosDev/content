@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "How to report a bug in Learnpack"
 subtitle: "Learn how to report a bug in Learnpack effectively! Follow our simple steps to troubleshoot issues and ensure a smoother experience. Click to discover more!"
 tags: ["4geeks"]

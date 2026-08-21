@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "Consejos y herramientas para construir un proyecto de Ciencia de Datos y Aprendizaje Automático"
 subtitle: "A la hora de construir un proyecto de Ciencia de Datos y Aprendizaje Automático hay cosas a tener en cuenta, especialmente si estás buscando trabajo. Aquí encontrarás consejos para hacer que un proyecto destaque entre la multitud, y una lista de sitios donde puedes encontrar conjuntos de datos útiles para poner en marcha tu proyecto."
 cover: "https://github.com/breatheco-de/content/blob/master/src/assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png?raw=true"

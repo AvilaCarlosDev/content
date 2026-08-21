@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master logical conditions in Python! Learn about conditionals, logical operators, and if...else statements to enhance your coding skills. Discover more!"
 title: Logical conditions in Python explained
 author:

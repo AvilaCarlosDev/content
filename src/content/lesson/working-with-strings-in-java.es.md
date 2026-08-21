@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Aprende a manejar cadenas (String) en Java. Descubre cómo crear, manipular y comparar cadenas de manera efectiva. ¡Comienza tu viaje de programación hoy!"
 title: Es Hora de Aprender lo que es el manejo de cadenas (String) en java
 tags:

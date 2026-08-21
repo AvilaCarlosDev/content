@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "¿Cómo consumir una API en Python?"
 subtitle: "Aprende a consumir una API en Python. Descubre los pasos esenciales para acceder y utilizar datos externos en tus aplicaciones. ¡Potencia tus proyectos ahora!"
 tags: ["python", "apis","http requests","flask","http"]

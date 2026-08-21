@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master your LinkedIn profile and reputation with essential tips for job hunting and resume building. Discover how to stand out and attract recruiters!"
 title: Building your LinkedIn profile and reputation
 authors:

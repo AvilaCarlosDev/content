@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Learn the fundamentals of Javascript, from syntax to functions and arrays. Master coding skills today and start your journey in tech!"
 title: Introduction to Start Coding Using Javascript
 tags:

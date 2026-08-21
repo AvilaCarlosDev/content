@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "¿Cómo añadir una columna a un DataFrame en Python?"
 subtitle: "Aprende a agregar una columna a un DataFrame en Python utilizando Pandas. Descubre diferentes métodos y ejemplos prácticos para ampliar y enriquecer tus datos."
 tags: ["python","pandas"]

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Descubre cómo LearnPack transforma el aprendizaje de programación con tutoriales interactivos. ¡Empieza a practicar y mejora tus habilidades hoy!"
 title: Tutoriales de programación con LearnPack
 tags:

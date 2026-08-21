@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master conditionals in JavaScript! Learn to use if-else statements and logical operators to control your code's flow. Click to discover more!"
 title: Conditionals in Programming with JavaScript
 authors:

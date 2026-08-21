@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Learn to manipulate strings in Python! Discover essential techniques like concatenation, extraction, and conversion. Master your coding skills today!"
 title: Working with or manipulating strings with Python
 authors:

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "Creación de Componentes React - Aprende qué es y cómo crear un componente React"
 subtitle: "Los componentes son el pan de cada día en React.js. Aprende qué es y cómo crear componentes en React utilizando propiedades, el estado del componente y aprendiendo las sintaxis más comunes."
 tags: ["reactjs", "javascript", "componetes-react"]

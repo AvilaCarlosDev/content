@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Learn how to consume an API in Python using the Requests library. Master GET, POST, PUT, and DELETE requests. Discover essential tips now!"
 title: How to consume an API in Python?
 tags:

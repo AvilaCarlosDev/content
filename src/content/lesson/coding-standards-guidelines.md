@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master essential coding standards and guidelines to enhance your coding skills. Discover best practices for cleaner, more efficient code today!"
 title: General Coding Standards and Guidelines
 tags:

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "Pandas Drop"
 subtitle: "Learn the key concepts behind Pandas Drop with a practical, clear explanation designed for programming students."
 tags: ["Python", "pandas"]

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Aprende a implementar JWT para una autenticación segura de API con Express. Domina los JSON Web Tokens y mejora la seguridad de tu aplicación. ¡Descúbrelo ahora!"
 title: Comprendiendo JWT y como implementar un JWT simple con Express
 tags:

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Complete React Navigation guide by Callstack: learn Stack, Tab and Drawer navigation, TypeScript typing, deep linking, and advanced patterns for enterprise apps. Everything you need to know about professional navigation in React Native CLI."
 title: "Master React Native Navigation with React Navigation"
 description: "Complete React Navigation guide by Callstack: learn Stack, Tab and Drawer navigation, TypeScript typing, deep linking, and advanced patterns for enterprise apps. Everything you need to know about professional navigation in React Native CLI."

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "¿Por qué codificar en la nube en lugar de en tu computadora local?"
 subtitle: "Descubre cómo usar GitHub Codespaces para el desarrollo en la nube. Aprende sus beneficios y mejora tu experiencia de codificación hoy mismo."
 tags: ["git"]

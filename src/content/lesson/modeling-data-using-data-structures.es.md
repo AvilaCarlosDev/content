@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master data structures to efficiently store your business needs. Discover how to optimize your software solutions with arrays, stacks, and more!"
 title: >-
   Utilizando estructuras de datos para almacenar las necesidades de nuestro

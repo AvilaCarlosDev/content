@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Discover the 4Geeks Method's project assignments! Learn how to build, review, and showcase your skills effectively. Start your journey today!"
 title: '4Geeks Method: The Project Assignments'
 tags:

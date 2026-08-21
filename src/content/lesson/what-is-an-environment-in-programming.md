@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master the use of environment variables in programming to streamline and secure your development across multiple platforms like Python, Node.js, PHP, etc."
 title: "Understanding Environments and Environment Variables in Programming"
 description: "Master the use of environment variables in programming to streamline and secure your development across multiple platforms like Python, Node.js, PHP, etc."

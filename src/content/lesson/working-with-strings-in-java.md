@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Discover how to use strings in Java! Learn essential string manipulation techniques to boost your programming skills. Start mastering Java today!"
 title: Learn why and how to use strings in Java programming language
 tags:

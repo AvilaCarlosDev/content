@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Discover how to maximize your coding journey at 4Geeks Academy! Overcome challenges and unlock your potential. Start learning today!"
 title: Introduction to 4Geeks Academy
 tags:

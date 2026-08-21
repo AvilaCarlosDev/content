@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "Construye y opera base de datos con SQL Alchemy"
 subtitle: "SQLAlchemy en su version 2 nos permite manejar nuestra base de datos como si se tratarán de objetos ordinarios en el código. Aprende a aprovechar las ventajas de este poderoso ORM"
 tags: ["python","databases","sqlalchemy","sql"]

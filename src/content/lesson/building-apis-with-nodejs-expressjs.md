@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Learn to build fast and flexible REST APIs with Node.js and Express.js. Discover essential tips and code examples to kickstart your API development!"
 title: Building APIs with nodejs Expressjs
 tags:

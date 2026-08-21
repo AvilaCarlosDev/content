@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "¡Bienvenid@ al Programa de Desarrollo Front End Avanzado de 4Geeks.com! Aprende a programar con recursos interactivos y mentoría. ¡Descubre tu futuro en tecnología hoy!"
 tags: ["apis"]
 title: ¡Bienvenid@ al Programa de Desarrollo Front End Avanzado de 4Geeks.com!

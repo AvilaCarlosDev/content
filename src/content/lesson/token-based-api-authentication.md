@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Learn how to implement token-based authentication in your API for secure user access. Discover best practices and examples to enhance your app's security!"
 title: Token Based Authentication in your API
 tags:

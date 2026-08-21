@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Unlock exclusive career support benefits for 4Geeks students! Discover opportunities, connect with partners, and boost your career today!"
 title: Career Support Benefits for 4Geeks Students
 tags:

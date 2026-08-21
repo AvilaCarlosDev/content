@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master CSS debugging with our guide! Learn essential tools and tips to save time and fix errors efficiently. Discover how to streamline your CSS today!"
 title: Depurando código CSS
 tags:

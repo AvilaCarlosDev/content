@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master Django Rest Framework to build powerful web applications and RESTful APIs. Discover essential tips and best practices for your development journey!"
 title: Understanding Django Rest Framework
 tags:

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Descubre cómo Pyenv optimiza el desarrollo en Python gestionando versiones y entornos virtuales. ¡Aprende a mejorar tu productividad hoy!"
 title: ¿Qué es Pyenv?
 tags:

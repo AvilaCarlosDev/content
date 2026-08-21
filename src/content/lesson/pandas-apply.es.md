@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "Pandas Apply"
 subtitle: "Master the Pandas apply function in Python! Learn essential data manipulation techniques to boost your analysis skills. Discover more now!"
 tags: ["Python", "pandas"]

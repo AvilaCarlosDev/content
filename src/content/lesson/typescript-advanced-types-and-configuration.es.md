@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Domina tipos compuestos, genéricos y configuración de TypeScript. Una guía práctica para desarrolladores que quieren aprovechar al máximo el tipado estático en sus proyectos."
 title: "TypeScript: Tipos Avanzados y Configuración"
 author: "rosinni"

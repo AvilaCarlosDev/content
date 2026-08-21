@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master bug and issue tracking best practices! Learn essential testing types and strategies to ensure a reliable application. Discover more now!"
 slug: bug-issue-tracking-best-practices
 title: Bug and issue tracking best practices

@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Discover the power of recursion in Python! Learn how to solve complex problems elegantly with recursive functions. Start mastering recursion today!"
 title: What is recursion in Python?
 tags:

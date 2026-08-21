@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Learn to build RESTful APIs using Flask, the popular Python framework. Master API development with our easy guide. Discover more now!"
 title: Building RESTful APIs using Flask
 tags:

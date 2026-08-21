@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Join the 4Geeks.com Coding Introduction Program! Master coding with hands-on tutorials, AI support, and mentoring. Discover your tech career today!"
 tags: ["JavaScript", "HTML", "CSS", "career"]
 title: Welcome to 4Geeks.com Coding Introduction Program!

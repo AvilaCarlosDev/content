@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Descubre qué es un DataFrame en Pandas y cómo manejar datos tabulares en Python. Aprende sus funciones esenciales y comienza a dominarlo hoy."
 title: ¿Qué es un DataFrame en Pandas?
 tags:

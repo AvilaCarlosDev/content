@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Master Python modules to organize and reuse your code like an expert! Discover essential tips and techniques to enhance your programming skills today!"
 title: 'Python Modules: Organizing and Reusing Code like an Expert.'
 tags:

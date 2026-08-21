@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 title: "¿Qué es la recursividad en Python?"
 subtitle: "Descubre qué es la recursividad en Python. Explora la técnica de llamadas a sí mismo para resolver problemas complejos de manera elegante y eficiente."
 tags: ["python", "recursividad-python"]

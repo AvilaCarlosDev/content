@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Learn how to implement JWT for secure API authentication in Flask. Discover simple steps to enhance your app's security today!"
 title: "Understanding JWT and how to implement a simple JWT with Flask"
 tags: ["HTTP", "API", "Security", "Authentication"]

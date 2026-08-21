@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "¡Domina tu perfil y reputación en GitHub! Aprende consejos esenciales para mostrar tus habilidades y atraer reclutadores. ¡Empieza a construir tu portafolio de desarrollador hoy!"
 title: Construyendo tu perfil y reputación GitHub
 authors:

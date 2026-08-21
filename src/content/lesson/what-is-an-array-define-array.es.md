@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Aprende qué es un array y cómo trabajar con ellos en programación. Domina esta estructura esencial y mejora tus habilidades. ¡Descubre más ahora!"
 title: Es Hora de Aprender lo que es un Array o arreglo
 tags:

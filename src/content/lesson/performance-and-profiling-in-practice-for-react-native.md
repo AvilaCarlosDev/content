@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "Practical guide to measure, diagnose and optimize performance in React Native using Hermes, Flipper and Systrace. Real debugging cases with measurable solutions."
 title: "Performance & Profiling in Practice for React Native"
 description: "Practical guide to measure, diagnose and optimize performance in React Native using Hermes, Flipper and Systrace. Real debugging cases with measurable solutions."

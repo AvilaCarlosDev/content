@@ -1,4 +1,5 @@
 ---
+date: "2026-08-21"
 subtitle: "A practical and beginner-friendly guide to understanding how React Native manages component state, lifecycle effects, and conditional rendering using TypeScript. Learn how UI reacts automatically as data changes through real examples."
 title: "State, Lifecycle, and Dynamic Rendering in React Native with TypeScript"
 description: "A practical and beginner-friendly guide to understanding how React Native manages component state, lifecycle effects, and conditional rendering using TypeScript. Learn how UI reacts automatically as data changes through real examples."
